@@ -1,1 +1,1 @@
-# practice_coding_test
+Hi, GitHub
