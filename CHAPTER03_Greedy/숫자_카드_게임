@@ -1,5 +1,5 @@
 # page 96
-# 12분 소요(실패)
+# 12분(실패)
 # n, m = map(int, input().split())
 # for i in range (n):
 #     for j in range (m):
